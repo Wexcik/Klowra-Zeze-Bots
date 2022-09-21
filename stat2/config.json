@@ -1,0 +1,283 @@
+{
+    "BOT": {
+        "TOKEN": "OTIzMDMwMzI1Njc4OTY0ODA3.YcKE-g.kydj70f2H2ho6hXq6mU_RTdMI_8",
+        "PREFIX": ".",
+        "MONGO_URL": "mongodb+srv://Klowra:nedensordun19@sunucular.oieom.mongodb.net/incident?retryWrites=true&w=majority",
+        "DEVELOPERS": [
+            "737004955528986745"
+        ]
+    },
+    "SYSTEM": {
+        "MAN_ROL_ID": "821125903391129600",
+        "GIRL_ROL_ID": "827993864983543808",
+        "GUILD_ID": "786545188897161286",
+        "MIN_STAFF_ROLE": "813855256190255125",
+        "TAGGED_XP": {
+            "MAN_XP": 35,
+            "GIRL_XP": 35,
+            "BİLİNMEYEN_XP": 35 
+        },
+        "STAFF_XP": {
+            "MAN_XP": 75,
+            "GIRL_XP": 75,
+            "BİLİNMEYEN_XP": 75 
+        },
+        "INVITE_XP": 4,
+        "CHANNELS": [
+            {
+                "NAME": "Incident Register Kanalları",
+                "POINT": 10,
+                "ID": "813855207846707220",
+                "TYPE": "voice",
+                "COUNT": 60
+            },
+            {
+                "NAME": "Incident Yönetim Kanalları",
+                "POINT": 5,
+                "ID": "813855211835097168",
+                "TYPE": "voice",
+                "COUNT": 60
+            },
+            {
+                "NAME": "Incident Sohbet Kanalları",
+                "POINT": 1,
+                "ID": "813855213709819948",
+                "TYPE": "message",
+                "COUNT": 12
+            },
+            {
+                "NAME": "Incident Yetkili Alım Kanalları",
+                "POINT": 30,
+                "ID": "826800432755245056",
+                "TYPE": "voice",
+                "COUNT": 60
+            },
+            {
+                "NAME": "Incident Sorun Çözme Kanalları",
+                "POINT": 15,
+                "ID": "813855213545979974",
+                "TYPE": "voice",
+                "COUNT": 60
+            },
+            {
+                "NAME": "Incident Terapi Kanalları",
+                "POINT": 35,
+                "ID": "876185435515289700",
+                "TYPE": "voice",
+                "COUNT": 60
+            },
+            {
+                "NAME": "Incident Stream/Ses Kanalları",
+                "POINT": 15,
+                "ID": "813855215219507240",
+                "TYPE": "voice",
+                "COUNT": 60
+            },
+            {
+                "NAME": "Incident Etkinlik Kanalları",
+                "POINT": 35,
+                "ID": "831343406587314237",
+                "TYPE": "voice",
+                "COUNT": 60
+            },
+            {
+                "NAME": "Incident Sohbet Kanalları",
+                "POINT": 20,
+                "ID": "827992044198690878",
+                "TYPE": "voice",
+                "COUNT": 60
+            },
+            {
+                "NAME": "Incident Sohbet Kanalları",
+                "POINT": 20,
+                "ID": "827992044198690878",
+                "TYPE": "voice",
+                "COUNT": 60
+            },
+            {
+                "NAME": "Incident Müzik Kanalları",
+                "POINT": 5,
+                "ID": "813855217606328370",
+                "TYPE": "voice",
+                "COUNT": 60
+            },
+            {
+                "NAME": "Incident Takım Kanalları",
+                "POINT": 5,
+                "ID": "841495918062862357",
+                "TYPE": "voice",
+                "COUNT": 60
+            },
+            {
+                "NAME": "Incident Game Kanalları",
+                "POINT": 5,
+                "ID": "813855220169441352",
+                "TYPE": "voice",
+                "COUNT": 60
+            },
+            {
+                "NAME": "Incident Secret Kanalları",
+                "POINT": 4,
+                "ID": "813855222405136445",
+                "TYPE": "voice",
+                "COUNT": 60
+            },
+            {
+                "NAME": "Incident Alone Kanalları",
+                "POINT": 5,
+                "ID": "867191108512383006",
+                "TYPE": "voice",
+                "COUNT": 60
+            }
+        ],
+        "TASKS": [
+            {
+                "NAME": "Ropalos",
+                "ID": [
+                    "813855226884128829"
+                ],
+                "POINT": 200
+            },
+            {
+                "NAME": "Larinos",
+                "ID": [
+                    "813855226444513280"
+                ],
+                "POINT": 700
+            },
+            {
+                "NAME": "Rakios",
+                "ID": [
+                    "813855225818775604"
+                ],
+                "POINT": 1300
+            },
+            {
+                "NAME": "Victoria",
+                "ID": [
+                    "813855225558466580"
+                ],
+                "POINT": 2050
+            },
+            {
+                "NAME": "Nyks",
+                "ID": [
+                    "813855225093292083"
+                ],
+                "POINT": 3000
+            },
+            {
+                "NAME": "Liparos",
+                "ID": [
+                    "813855224611602483"
+                ],
+                "POINT": 4150
+            },
+            {
+                "NAME": "Aguares",
+                "ID": [
+                    "813855223772217364"
+                ],
+                "POINT": 5550
+            },
+            {
+                "NAME": "Agron",
+                "ID": [
+                    "838618089410265088"
+                ],
+                "POINT": 7100
+            },
+            {
+                "NAME": "Tartaros",
+                "ID": [
+                    "813855223096803340"
+                ],
+                "POINT": 8850
+            },
+            {
+                "NAME": "Bianos",
+                "ID": [
+                    "813855222992601099"
+                ],
+                "POINT": 10900
+            },
+            {
+                "NAME": "Selinos",
+                "ID": [
+                    "813855222521921556"
+                ],
+                "POINT": 13150
+            },
+            {
+                "NAME": "Asmodeus",
+                "ID": [
+                    "813855222144434256"
+                ],
+                "POINT": 15750
+            },
+            {
+                "NAME": "Hera",
+                "ID": [
+                    "831681520158507100"
+                ],
+                "POINT": 19650
+            },
+            {
+                "NAME": "Prometheus",
+                "ID": [
+                    "901448719017328650",
+                    "813855215514025995"
+                ],
+                "POINT": 31650
+            },
+            {
+                "NAME": "Morpheus",
+                "ID": [
+                    "826793770758045707",
+                    "813855214398079067"
+                ],
+                "POINT": 45650
+            },
+            {
+                "NAME": "Hesperos",
+                "ID": [
+                    "813855220677214308",
+                    "813855213894762556"
+                ],
+                "POINT": 61650
+            },
+            {
+                "NAME": "Adrastos",
+                "ID": [
+                    "813855219980697611",
+                    "813855213227081798"
+                ],
+                "POINT": 79650
+            },
+            {
+                "NAME": "Admetos",
+                "ID": [
+                    "813855219178799187",
+                    "813855213227081798"
+                ],
+                "POINT": 99650
+            },
+            {
+                "NAME": "Enyalios",
+                "ID": [
+                    "813855218818875413",
+                    "813855211889098762"
+                ],
+                "POINT": 121650
+            },
+            {
+                "NAME": "Guardian",
+                "ID": [
+                    "826793405816373249",
+                    "901197028346953738"
+                ],
+                "POINT": 145650
+            }
+        ]
+    }
+}
